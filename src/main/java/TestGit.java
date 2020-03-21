@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("优秀");
         System.out.println("bu优秀");
         System.out.println("挺好");
+        System.out.println("ok");
     }
 }
